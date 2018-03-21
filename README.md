@@ -19,3 +19,8 @@ If the speed become greater then 10 then there is fixmotor button there.
 When a user clicks on this button, immediately the speed of that motor becomes the default speed,
 which is 5 units. This should get reflected in our previous page as well where we were switching
 on/off and controlling the speed of the motor.
+
+I have uploade it on free webserver you can see from the given below:-
+
+Motor Machine link-https://motormachine.000webhostapp.com/index.php<br>
+Motor machine Health Link-https://motormachine.000webhostapp.com/Machinehealth/Machinehealth.php
